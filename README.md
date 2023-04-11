@@ -9,8 +9,10 @@ THIS IS SOLIDITY CODE
 3. Arrays
 
 4. Mappings
+
+5. Inheritance
  
-5. Please Subscribe. Thank you!
+6. Please Subscribe. Thank you!
 
 https://www.youtube.com/channel/UC7eMxONt1FwqK_O8L5cHNYg
 
